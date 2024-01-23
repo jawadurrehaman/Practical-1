@@ -1,0 +1,2 @@
+The temperature in Celsius is: 10.0
+The temperature in Fahrenheit is: 95.0
